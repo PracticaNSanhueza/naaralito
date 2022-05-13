@@ -1,0 +1,1 @@
+var json_NAARALITO_1 = {"type":"FeatureCollection","name":"NAARALITO_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","imagen":"C:\\Users\\Nicolás\\Desktop\\naralio\\naara.jpg"},"geometry":{"type":"Point","coordinates":[-72.341409330433535,-37.454081895529313]}}]}
